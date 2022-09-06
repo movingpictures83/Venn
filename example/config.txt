@@ -1,0 +1,2 @@
+Prefix plugins/Venn/example
+Plugin Venn inputfile parameters.txt outputfile venn.png
